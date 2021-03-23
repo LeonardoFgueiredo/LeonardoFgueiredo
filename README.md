@@ -18,8 +18,8 @@
 --------
 ### **Experience**  
 - Web Design Intern 
-📍 UPPERCASE Consultoria
- 📆 Jan 2020 - Jun 2020
+- 📍 UPPERCASE Consultoria
+-  📆 Jan 2020 - Jun 2020
 ----------
 
 
