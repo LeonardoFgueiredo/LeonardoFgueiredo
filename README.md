@@ -47,7 +47,7 @@
     />
 </div>
   
-   ![Snake animation](https://github.com/LeonardoFgueiredo/LeonardoFgueiredo/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](LeonardoFgueiredo)
   
   
   
