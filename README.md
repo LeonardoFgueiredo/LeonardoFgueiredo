@@ -21,42 +21,70 @@
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFgueiredo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+   
+   <h2>Skills</h2>
+   
+<p align="left">
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      width="50" height="50" alt="HTML5" /></a>   
+   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="50" height="50" alt="CSS3" /></a>
+   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+      width="50" height="50" alt="Bootstrap" /></a>
+   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      width="50" height="50" alt="Sass" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="50" height="50" alt="Javascript" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="50" height="50" alt="React" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      width="50" height="50" alt="NodeJS" /></a>
+   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
+      width="50" height="50" alt="C++" /></a>
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+      width="50" height="50" alt="PHP" /></a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      width="50" height="50" alt="MySQL" /></a>
+</p>
+</div>
+<br> 
 
  <div>
     <h2> 🌐Website</h2>
     <h4>🚧 Em breve... 🚧</h4>
  </div>
  <br>
-  
 <div>
- <h2>Skills</h2>
-    <img align="center" alt="leonardo_html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="leonardo_css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="leonardo_js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="leonardo_bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="leonardo_php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="leonardo_php" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+ 
 <br> 
  
 <div>
  <h2>UX/UI Design</h2>
-    <img height="30em" src="https://img.shields.io/badge/AdobeXD-563D7C?style=for-the-badge&logo=adobexd&logoColor=white"/>
-    <img height="30em"      src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" />
+    <p align="left">
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
  </div>
- <br>
- 
+   
  <div>
   <h2>Social</h2>
-  <a href="https://www.linkedin.com/in/leonardo-de-oliveira-figueiredo-8347b2186/">
-    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/leonardo.fig_/">
-    <img height="30em" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  
-    <a href="https://www.behance.net/leonardfigueir8">
-    <img height="30em" src="https://aleen42.github.io/badges/src/behance.svg"/>
-  </a> 
+
+<p align="left"> 
+   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leonardo-de-oliveira-figueiredo-8347b2186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+   <a href="http://www.instagram.com/https://www.instagram.com/leonardo.fig_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>   
+   <a href="https://www.behance.com/https://www.behance.net/leonardfigueir8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> 
+
+</p>
 </div>
  
 
