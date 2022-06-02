@@ -4,7 +4,7 @@
 » Sou Leonardo, curso Sistemas para Internet e desejo ser um futuro Web Developer. <br>
 
 <div>
-   <p>👨‍💻 Gosto das áreas de Front-End e UX/UI Design.</p> 
+   <p>👨‍💻 Gosto das áreas de Front-End, Banco de dados e UX/UI Design.</p> 
  
    <p>🚀 Quero crescer na carreira de Desenvolvimento Web e <br>
       dominar as ferramentas necessárias para ser um bom profissional.</p> 
