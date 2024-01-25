@@ -61,7 +61,7 @@
 
  <div>
     <h2> 🌐Website</h2>
-    <h4>🚧 Em breve... 🚧</h4>
+    <a href="https://leonardofigueiredodev.netlify.app/" target="blank">Link</a>
  </div>
  <br>
 <div>
