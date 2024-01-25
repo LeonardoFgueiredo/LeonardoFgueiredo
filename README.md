@@ -1,7 +1,7 @@
 
 
 ## **→ Olá !**  
-» Sou Leonardo, curso Sistemas para Internet e desejo ser um futuro Web Developer. <br>
+» Sou Leonardo, formado em Sistemas para Internet e Web Developer. <br>
 
 <div>
    <p>👨‍💻 Gosto das áreas de Front-End, Banco de dados e UX/UI Design.</p> 
