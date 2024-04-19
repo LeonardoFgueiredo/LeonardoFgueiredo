@@ -65,24 +65,8 @@
  
 <br> 
  
-<div>
- <h2>UX/UI Design</h2>
-    <p align="left">
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
- </div>
    
- <div>
-  <h2>Social</h2>
-
-<p align="left"> 
-   <a href="https://www.linkedin.com/in/leonardo-de-oliveira-figueiredo-8347b2186/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-   <a href="https://www.instagram.com/leonardo.fig_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>   
-   <a href="https://www.behance.net/leonardfigueir8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> 
-
-</p>
-</div>
+ 
  
 
  ![Snake animation](https://github.com/LeonardoFgueiredo/LeonardoFgueiredo/blob/output/github-contribution-grid-snake.svg)
