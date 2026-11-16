@@ -105,32 +105,7 @@ Uso IA como **parceira de engenharia**, não como atalho: eu defino arquitetura,
 <br/>
 
 
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoFgueiredo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&ring_color=d97757" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFgueiredo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d97757" alt="Top linguagens" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=LeonardoFgueiredo&theme=tokyonight&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757" alt="Streak" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LeonardoFgueiredo/LeonardoFgueiredo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br/>
-
-## 🚀 Vamos tirar seu site do papel?
+## 🚀 Vamos tirar seu sistema do papel?
 
 Tem um negócio, uma marca ou uma ideia que precisa de presença na web? Me chama:
 
